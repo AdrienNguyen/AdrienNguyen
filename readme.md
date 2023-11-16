@@ -1,3 +1,3 @@
 ###
-Hi everyone! I'm Adrien Nguyen.
+Hi! I'm Adrien Nguyen.
 ###
